@@ -7,9 +7,6 @@
         "guzzlehttp/guzzle": "^7.0",
         "illuminate/support": "^12.0 || ^13.0"
     },
-    "suggest": {
-        "irazasyed/telegram-bot-sdk": "^3.16 for the optional Telegram HTTP client."
-    },
     "autoload": {
         "psr-4": {
             "Balerka\\LaravelProxy\\": "src/"
