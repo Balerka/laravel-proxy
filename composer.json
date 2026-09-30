@@ -2,6 +2,7 @@
     "name": "balerka/laravel-proxy",
     "description": "HTTP proxy failover for Laravel and Guzzle.",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.3",
         "guzzlehttp/guzzle": "^7.0",
